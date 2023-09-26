@@ -1,6 +1,6 @@
 ## Logistics Daily Data Movement 
 
-This project is built to showcase orchestrating the batch processing based on Airflow.
+The project has been built to showcase orchestrating the batch processing on top of Airflow, load data into Hive tables through GCP DataProc. The primary purpose has been to orchestrate the daily task based on Hive which have dependencies on each other. This helped me to leverage Airflow and Hive functionalities.
 
 Tech Stacks that were utilized:
 - Airflow
