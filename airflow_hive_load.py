@@ -6,7 +6,7 @@ from airflow.providers.google.cloud.sensors.gcs import GCSObjectsWithPrefixExist
 from airflow.providers.google.cloud.operators.dataproc import DataprocSubmitHiveJobOperator
 from airflow.operators.bash_operator import BashOperator
 
-
+# git comit
 # Defining the varible being declared in the Airflow UI > Variables section.
 config = Variable.get("cluster_details",deserialize_json=True)
 
