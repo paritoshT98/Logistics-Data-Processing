@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7111394e-de10-47b1-89cf-b6f522c755f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/airflow_hive_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/airflow_hive_load.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
